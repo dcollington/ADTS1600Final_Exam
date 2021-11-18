@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="ADTS1600_DigitalPrototype">
+    <output-path>$PROJECT_DIR$/out/artifacts/ADTS1600_DigitalPrototype</output-path>
+    <root id="root">
+      <element id="archive" name="ADTS1600_DigitalPrototype.jar">
+        <element id="module-output" name="ADTS1600_DigitalPrototype" />
+      </element>
+    </root>
+  </artifact>
+</component>
